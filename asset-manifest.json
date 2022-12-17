@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sokoloffReact/static/css/main.a4d348aa.css",
+    "main.js": "/sokoloffReact/static/js/main.865f0b04.js",
+    "static/media/logo1.svg": "/sokoloffReact/static/media/logo1.ba46d30ad97e6e2e4115bcd781c29468.svg",
+    "static/media/текстура.svg": "/sokoloffReact/static/media/текстура.d6bb10d39022fd944c593d997f2b6875.svg",
+    "static/media/sea.png": "/sokoloffReact/static/media/sea.d9894c756486b312e9e7.png",
+    "static/media/деревяшка.png": "/sokoloffReact/static/media/деревяшка.3b52aaf5e6f6e976e6bf.png",
+    "static/media/mainscreen.jpg": "/sokoloffReact/static/media/mainscreen.fd0d32026707d1fc56d4.jpg",
+    "static/media/deg.png": "/sokoloffReact/static/media/deg.59e1ed2b51d6dd5a1907.png",
+    "static/media/kam.png": "/sokoloffReact/static/media/kam.d0ac9829dc5e8f499991.png",
+    "static/media/payment.png": "/sokoloffReact/static/media/payment.8046d0c2aebcc24ee814.png",
+    "static/media/delivery.png": "/sokoloffReact/static/media/delivery.b9a392860e8aab29384c.png",
+    "static/media/fish4.png": "/sokoloffReact/static/media/fish4.5de88a08e75c3ed173ea.png",
+    "static/media/Корзина.svg": "/sokoloffReact/static/media/Корзина.044e6a1b81a0d97502974995e99ab388.svg",
+    "static/media/Ватсапп.svg": "/sokoloffReact/static/media/Ватсапп.a4f1667482bf5b74a634c184bb3915e7.svg",
+    "static/media/fish1.png": "/sokoloffReact/static/media/fish1.55acb2e2c2039e5c3ed5.png",
+    "static/media/red2.png": "/sokoloffReact/static/media/red2.84b3cab8f96c17898fc2.png",
+    "static/media/red3.png": "/sokoloffReact/static/media/red3.4c232b99450dfe97a142.png",
+    "static/media/fish3.png": "/sokoloffReact/static/media/fish3.6748cd6b776981da8764.png",
+    "static/media/fish2.png": "/sokoloffReact/static/media/fish2.20aaa23d81c87c73753b.png",
+    "static/media/red1.png": "/sokoloffReact/static/media/red1.5a6836299cd0f7645e06.png",
+    "static/media/fish.png": "/sokoloffReact/static/media/fish.1bbc9115423ed5f4902c.png",
+    "static/media/звездочки.svg": "/sokoloffReact/static/media/звездочки.999d7080b90668b135ae21f5420a4869.svg",
+    "static/media/icondown.svg": "/sokoloffReact/static/media/icondown.7593bf5b06acbd3cd4fece7faca51bbc.svg",
+    "index.html": "/sokoloffReact/index.html",
+    "main.a4d348aa.css.map": "/sokoloffReact/static/css/main.a4d348aa.css.map",
+    "main.865f0b04.js.map": "/sokoloffReact/static/js/main.865f0b04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d348aa.css",
+    "static/js/main.865f0b04.js"
+  ]
+}
