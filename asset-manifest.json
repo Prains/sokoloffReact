@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/sokoloffReact/static/css/main.a4d348aa.css",
-    "main.js": "/sokoloffReact/static/js/main.865f0b04.js",
+    "main.css": "/sokoloffReact/static/css/main.8ff7fe41.css",
+    "main.js": "/sokoloffReact/static/js/main.b4bb6d5b.js",
     "static/media/logo1.svg": "/sokoloffReact/static/media/logo1.ba46d30ad97e6e2e4115bcd781c29468.svg",
     "static/media/текстура.svg": "/sokoloffReact/static/media/текстура.d6bb10d39022fd944c593d997f2b6875.svg",
     "static/media/sea.png": "/sokoloffReact/static/media/sea.d9894c756486b312e9e7.png",
     "static/media/деревяшка.png": "/sokoloffReact/static/media/деревяшка.3b52aaf5e6f6e976e6bf.png",
+    "static/media/bottomfish.png": "/sokoloffReact/static/media/bottomfish.9ed9737108273adcd305.png",
+    "static/media/bottomlogo.svg": "/sokoloffReact/static/media/bottomlogo.0c8a1973a16d0741a712dd1d0304241f.svg",
     "static/media/mainscreen.jpg": "/sokoloffReact/static/media/mainscreen.fd0d32026707d1fc56d4.jpg",
     "static/media/deg.png": "/sokoloffReact/static/media/deg.59e1ed2b51d6dd5a1907.png",
     "static/media/kam.png": "/sokoloffReact/static/media/kam.d0ac9829dc5e8f499991.png",
@@ -24,11 +26,11 @@
     "static/media/звездочки.svg": "/sokoloffReact/static/media/звездочки.999d7080b90668b135ae21f5420a4869.svg",
     "static/media/icondown.svg": "/sokoloffReact/static/media/icondown.7593bf5b06acbd3cd4fece7faca51bbc.svg",
     "index.html": "/sokoloffReact/index.html",
-    "main.a4d348aa.css.map": "/sokoloffReact/static/css/main.a4d348aa.css.map",
-    "main.865f0b04.js.map": "/sokoloffReact/static/js/main.865f0b04.js.map"
+    "main.8ff7fe41.css.map": "/sokoloffReact/static/css/main.8ff7fe41.css.map",
+    "main.b4bb6d5b.js.map": "/sokoloffReact/static/js/main.b4bb6d5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4d348aa.css",
-    "static/js/main.865f0b04.js"
+    "static/css/main.8ff7fe41.css",
+    "static/js/main.b4bb6d5b.js"
   ]
 }
