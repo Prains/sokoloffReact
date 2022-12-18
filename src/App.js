@@ -1,19 +1,10 @@
-import Advantage from "./components/Advantage";
-import Cargo from "./components/Cargo";
-import Catalog from "./components/Catalog";
-import Contacts from "./components/Contacts";
-import Header from "./components/Header";
-import Main from "./components/Main";
+
+import Home from "./pages/Home";
 
 function App() {
   return (
     <div className="App">
-      <Cargo />
-      <Header />
-      <Main />
-      <Advantage />
-      <Catalog />
-      <Contacts />
+      <Home/>
     </div>
   );
 }

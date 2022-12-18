@@ -12,7 +12,7 @@ const Item = (props) => {
             {red.map((item) => {
                 return <div className="catalog__element" >
                     <h2 className="element__title">{item.title}</h2>
-                    <img src={item.image} alt={item.title} className="element__image"></img>
+                    <img src={item.image} alt={item.title} className="element__item__image"></img>
                     <div className="element__text">
                         <p className="element__description">{item.description}</p>
                         <p className="element__quality">Качество: <img src={stars} alt="звездочки"></img></p>

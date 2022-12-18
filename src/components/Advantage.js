@@ -37,7 +37,7 @@ const Advantage = () => {
                     return <div className="element" key={card.id}>
                         <img src={card.background} alt={card.title} className="element__img"></img>
                         <div className="element__lead">
-                            <h2 className="element__title">{card.title}</h2>
+                            <h2 className="element__advantage__title">{card.title}</h2>
                         </div>
                     </div>
                 })}

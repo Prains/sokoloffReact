@@ -216,6 +216,9 @@ p {
 }
 
 @media screen and (max-width: 767px) {
+  .element {
+    height: 250px;
+  }
   .advantage__elements {
     grid-template-columns: 1fr;
   }
@@ -247,7 +250,7 @@ p {
   background: rgba(17, 23, 30, 0.65);
 }
 
-.element__title {
+.element__advantage__title {
   color: #fff;
   font-weight: 500;
   font-size: 24px;
@@ -313,7 +316,7 @@ p {
   text-align: center;
 }
 
-.element__image {
+.element__item__image {
   max-width: 229px;
   max-height: 232px;
 }
@@ -481,7 +484,6 @@ p {
   max-width: 411px;
   width: 100%;
 }
-
 .cargo__element {
   max-width: 366px;
   display: flex;
@@ -497,6 +499,18 @@ p {
 .element__image {
   max-width: 61px;
   max-height: 56px;
+}
+
+@media screen and (max-width: 767px) {
+  .cargo {
+    right: 0;
+  }
+  .cargo__content {
+    width: 89%;
+  }
+  .cargo__title {
+    max-width: 89%;
+  }
 }
 
 .element__title {
