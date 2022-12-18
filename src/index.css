@@ -395,3 +395,141 @@ p {
   flex-direction: column;
   text-align: center;
 }
+
+.contact__lead {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 63px;
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.2) 21.35%,
+      rgba(0, 0, 0, 0.0382353) 50.52%,
+      rgba(0, 0, 0, 0) 97.4%
+    ),
+    rgba(252, 191, 73, 0.94);
+}
+
+.lead__title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+}
+
+.contact__content {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 501px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contact__text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+  text-align: center;
+  color: #fff;
+}
+
+.lead__img:last-of-type {
+  transform: rotateY(180deg);
+}
+
+@media screen and (max-width: 767px) {
+  .lead__img {
+    max-width: 65px;
+  }
+
+  .lead__title {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .contact__text {
+    font-size: 18px;
+  }
+}
+
+.arrow {
+  cursor: pointer;
+}
+
+.cargo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 99999999999;
+  position: fixed;
+  right: 56px;
+  top: 100px;
+}
+
+.cargo__content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: rgba(15, 15, 15, 0.8);
+  border-radius: 6px;
+  max-width: 411px;
+  width: 100%;
+}
+
+.cargo__element {
+  max-width: 366px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+}
+
+.element__image {
+  max-width: 61px;
+  max-height: 56px;
+}
+
+.element__title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 110px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  background: rgba(0, 0, 0, 0.43);
+  border-radius: 10px;
+}
+
+.element__amount {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.price__amount {
+  background: rgba(0, 0, 0, 0.43);
+  border-radius: 10px;
+  max-width: 70px;
+  width: 100%;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6px;
+}
